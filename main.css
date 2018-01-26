@@ -105,8 +105,7 @@ header{display: flex;
          color: white;  
          font-size: 30px;
          text-align: center;
-         font-weight: bold;
-         padding: 10px;
+         padding: 20px;
          height: 300px;
          
         }
@@ -134,7 +133,7 @@ header{display: flex;
         }
 
 
-.icon1{//margin-right: 5px;
+.icon1{margin-right: 5px;
        padding-right: 15px;}
 
 .icon2{margin-right: 31px;
@@ -176,6 +175,8 @@ footer{display: flex;
                     font-family:Lato-Light;}
             
             .reviews:hover{border-color: #bebebe; }
+
+         
 
 
 

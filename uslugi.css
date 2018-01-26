@@ -137,10 +137,7 @@ header{display: flex;
         
 .uslugi_6{width: 100%;
           padding: 60px;
-          //background-color: #005c8f;
           background:  url(uslugi_6_back.png) center center no-repeat;
-          //background-size: cover;
-          //opacity: 0.8;
           color: white;
           }
 
